@@ -16,7 +16,7 @@ public class OracleDemo {
 
         pstm.setObject(1, 7788);
 
-         ;
+         ;;;;
         ResultSet rs = pstm.executeQuery();
 
         while (rs.next()) {
