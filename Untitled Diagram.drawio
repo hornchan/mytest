@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T09:09:37.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TbOp1Cu-rJ1d0DZ5tj9I" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T09:43:31.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-h8i3114tGERV2uQDl1M" version="20.7.2" type="github">
   <diagram id="V-NycakTMJc-n4oT-As1" name="Page-1">
     <mxGraphModel dx="1062" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2417,11 +2417,11 @@
             <mxPoint x="1012.8290000000001" y="3539.372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ukItyuaSeVGQqftaPEw-76" value="(a)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="662.87" y="3702" width="36" height="26" as="geometry" />
+        <mxCell id="3ukItyuaSeVGQqftaPEw-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;(a) 半实例归一化模块（HINB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="585.93" y="3701" width="221" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="3ukItyuaSeVGQqftaPEw-77" value="(b)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="924.37" y="3702" width="36" height="26" as="geometry" />
+        <mxCell id="3ukItyuaSeVGQqftaPEw-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;(b) 残差块（ResB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="868.37" y="3701" width="149" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
